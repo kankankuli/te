@@ -1,0 +1,12 @@
+body .pos-customer_facing_display .pos-payment_info .pos-company_logo {
+    display: none;
+}
+
+body .pos-customer_facing_display .pos-payment_info .pos-payment_info_details .pos-odoo_logo_container {
+    text-align: center;
+}
+
+
+body .pos-customer_facing_display .pos-payment_info .pos-payment_info_details .pos-odoo_logo_container img {
+  max-width: 500px;
+}
