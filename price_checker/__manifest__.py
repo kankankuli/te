@@ -19,8 +19,8 @@
     'version': '0.1',
 
     # any module necessary for this one to work correctly
-    'depends': ['base'],
-
+    # 'depends': ['base'],
+      'depends': ['website', 'sale', 'website_payment', 'website_mail', 'website_form', 'website_rating', 'digest'],
     # always loaded
     'data': [
         # 'security/ir.model.access.csv',
